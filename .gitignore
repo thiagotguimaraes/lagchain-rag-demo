@@ -1,4 +1,6 @@
 .env
 chroma_*
 chroma
+db
 .DS_Store
+__pycache__
